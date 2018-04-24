@@ -1,0 +1,23 @@
+cores com alta excitação e alto sentimento de controle
+Tons mais claros 
+Rosa 
+#FFC0CB
+
+Amarelo
+#F0E68C
+
+Vermelho
+#FFA07A
+
+
+cores com baixa excitação e baixa sentimento de controle
+Tons mais claros 
+Cinza
+#C0C0C0
+
+Azul
+#87CEEB
+
+Verde
+#ADFF2F
+
